@@ -1,2 +1,2 @@
-# fcc_dates
-Ejercicio de Free Code Camp sobre fechas. 
+# fcc_football-team
+Ejercicio de Free Code Camp de fichas de un equipo de fútbol. 
